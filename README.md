@@ -1,2 +1,7 @@
 # Natural-Language-Processing-II-
-Various concepts and coding excercise related to NLP
+
+Various concepts and coding excercise related to NLP.
+
+# Content
+
+# Modules
