@@ -6,5 +6,6 @@ Various concepts and coding excercise related to NLP.
 
 - 1- Topic Modeling using SVD, truncated SVD, NMF
 - 2- Randomized SVD
+- 3-Sentiment Classification
 
 # Modules
