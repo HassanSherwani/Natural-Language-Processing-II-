@@ -10,4 +10,4 @@ Various concepts and coding excercise related to NLP.
 
 # Modules
 
-pandas , pytorch, keras , tensorflow
+pandas , pytorch, keras , tensorflow , fastai
