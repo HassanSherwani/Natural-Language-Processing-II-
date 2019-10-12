@@ -9,3 +9,5 @@ Various concepts and coding excercise related to NLP.
 - 3-Sentiment Classification
 
 # Modules
+
+pandas , pytorch, keras , tensorflow
