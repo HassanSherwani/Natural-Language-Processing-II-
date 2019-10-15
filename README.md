@@ -8,6 +8,7 @@ Various concepts and coding excercise related to NLP.
 - 2- Randomized SVD
 - 3-Sentiment Classification using bagofwords model
 - 4-Movie Sentiment Analysis based on review using GRU
+- 5)- Language Translation using Attention model
 
 # Modules
 
