@@ -12,3 +12,8 @@ Various concepts and coding excercise related to NLP.
 # Modules
 
 pandas , pytorch, keras , tensorflow , fastai
+
+# References
+
+- For Transformer: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- For GPT-2 : [OpenAI blog post on GPT-2](https://openai.com/blog/better-language-models/)
