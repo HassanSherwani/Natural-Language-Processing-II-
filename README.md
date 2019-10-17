@@ -22,3 +22,7 @@ pandas , pytorch, keras , tensorflow , fastai
 - seq2seq Model with Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - For Transformer: The Illustrated Transformer
 - For GPT-2 : OpenAI blog post on GPT-2
+
+# Gratitude
+
+Special Thanks to fastai lectures, scoutbee lectures which helped me immensely for learning key concepts of NLP & coding in general
