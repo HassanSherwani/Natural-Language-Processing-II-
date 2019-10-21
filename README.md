@@ -24,6 +24,6 @@ pandas , numpy , matplotlib , pytorch, keras , tensorflow , fastai
 - For Transformer: The Illustrated Transformer
 - For GPT-2 : OpenAI blog post on GPT-2
 
-# Gratitude
+# Credit:
 
-Special Thanks to fastai lectures, scoutbee lectures which helped me immensely for learning key concepts of NLP & coding in general
+Special Thanks to fastai lectures, scoutbee lectures, Silicon Valley Python Workshops Microsoft Reactor event which helped me immensely for learning key concepts of NLP & coding in general
