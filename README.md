@@ -4,6 +4,7 @@ Various concepts and coding excercise related to NLP.
 
 # Content
 
+- 0. Implementation of Basic LSTM and concepts
 - 1- Topic Modeling using SVD, truncated SVD, NMF
 - 2- Randomized SVD
 - 3- Sentiment Classification using bagofwords model
