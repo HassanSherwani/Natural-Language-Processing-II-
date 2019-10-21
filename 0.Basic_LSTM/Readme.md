@@ -1,1 +1,3 @@
-Applying very basic LSTMs using "for" and "cat"
+Applying basic LSTMs using 
+- "for" loop 
+- "cat"
