@@ -12,6 +12,7 @@ Various concepts and coding excercise related to NLP.
 - 5)- Language Translation using Attention model
 - 6)- Text Generation using fine-tine GPT-2 model
 - 7)- Text classification using BERT 
+- 8)- Emotion_Analysis
 
 # Modules
 
