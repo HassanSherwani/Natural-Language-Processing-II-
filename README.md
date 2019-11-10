@@ -13,10 +13,11 @@ Various concepts and coding excercise related to NLP.
 - 6)- Text Generation using fine-tine GPT-2 model
 - 7)- Text classification using BERT 
 - 8)- Emotion_Analysis
+- 9)- Word Embedding
 
 # Modules
 
-pandas , numpy , matplotlib , pytorch, keras , tensorflow , fastai
+pandas , numpy , matplotlib , pytorch, keras , tensorflow , fastai,DynaNet
 
 # References
 
