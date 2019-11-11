@@ -14,6 +14,7 @@ Various concepts and coding excercise related to NLP.
 - 7)- Text classification using BERT 
 - 8)- Emotion_Analysis
 - 9)- Word Embedding
+- 10)- Part of Speech(POS) Tagging
 
 # Modules
 
