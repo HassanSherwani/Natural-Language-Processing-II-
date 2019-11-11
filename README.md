@@ -30,6 +30,7 @@ pandas , numpy , matplotlib , seaborn, gensim, sklearn, pytorch, keras , tensorf
 - For GPT-2 : OpenAI blog post on GPT-2
 - Silicon Valley Python Workshops: https://github.com/PythonWorkshop/intro-to-nlp-with-pytorch
 - Elvis Saravia Talk:https://github.com/omarsar/nlp_pycon
+- For DyNet: https://github.com/clab/dynet
 
 # Credit:
 
