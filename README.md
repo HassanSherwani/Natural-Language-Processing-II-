@@ -18,7 +18,7 @@ Various concepts and coding excercise related to NLP.
 
 # Modules
 
-pandas , numpy , matplotlib , pytorch, keras , tensorflow , fastai,DynaNet
+pandas , numpy , matplotlib , seaborn, gensim, sklearn, pytorch, keras , tensorflow , fastai ,DyNet(Dynamic Neural Network)
 
 # References
 
