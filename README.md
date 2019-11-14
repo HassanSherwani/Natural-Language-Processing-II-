@@ -15,6 +15,7 @@ Various concepts and coding excercise related to NLP.
 - 8)- Emotion_Analysis
 - 9)- Word Embedding
 - 10)- Part of Speech(POS) Tagging
+- 11)- Named Entity Recognition (NER)
 
 # Modules
 
