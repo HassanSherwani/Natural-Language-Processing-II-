@@ -4,18 +4,19 @@ Various concepts and coding excercise related to NLP.
 
 # Content
 
-- 0- Implementation of Basic LSTM and concepts
-- 1- Topic Modeling using SVD, truncated SVD, NMF
-- 2- Randomized SVD
-- 3- Sentiment Classification using bagofwords model
-- 4- Movie Sentiment Analysis based on review using GRU
-- 5)- Language Translation using Attention model
-- 6)- Text Generation using fine-tine GPT-2 model
-- 7)- Text classification using BERT 
-- 8)- Emotion_Analysis
-- 9)- Word Embedding
-- 10)- Part of Speech(POS) Tagging
-- 11)- Named Entity Recognition (NER)
+- 0- Implementation of Basic LSTM and concepts.
+- 1- Topic Modeling using SVD, truncated SVD, NMF.
+- 2- Randomized SVD.
+- 3- Sentiment Classification using bagofwords model.
+- 4- Movie Sentiment Analysis based on review using GRU.
+- 5)- Language Translation using Attention model.
+- 6)- Text Generation using fine-tine GPT-2 model.
+- 7)- Text classification using BERT .
+- 8)- Emotion_Analysis.
+- 9)- Word Embedding.
+- 10)- Part of Speech(POS) Tagging.
+- 11)- Named Entity Recognition (NER).
+- 12)- CMU(Carnegie Mellon University) NLP lectures.
 
 # Modules
 
