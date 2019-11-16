@@ -26,6 +26,8 @@ pandas , numpy , matplotlib , seaborn, gensim, sklearn, pytorch, keras , tensorf
 - For PyTorch: https://pytorch.org/tutorials/
 - Attention Model: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112).
 - Attention Model: Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). Learning phrase representations using RNN encoder-decoder for statistical machine translation. arXiv preprint arXiv:1406.1078.
+- Carnegie Mellon University NLP : http://www.cs.cmu.edu/~nasmith/nlp-cl.html
+- Carnegie Mellon University NLP: http://demo.clab.cs.cmu.edu/NLP/
 - seq2seq Model with Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - For Transformer: The Illustrated Transformer
 - For GPT-2 : OpenAI blog post on GPT-2
