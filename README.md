@@ -19,8 +19,12 @@ Various concepts and coding excercise related to NLP.
 - 12)- CMU(Carnegie Mellon University) NLP lectures.
 
 # Modules
-
-pandas , numpy , matplotlib , seaborn, gensim, sklearn, pytorch, keras , tensorflow , fastai ,DyNet(Dynamic Neural Network)
+For data processing : pandas, numpy, eli5 <br>
+For visualization : matplotlib, seaborn , plotly, TabPy <br>
+For machine learning : sklearn, SciPy <br>
+Web Scrapping : Beautifulsoup, Urllib , Scrapy <br>
+For text mining : spacy, nltk,re, TextBlob, Gensim <br>
+For deep learning : pytorch, tensorflow, keras, fastai, Dynet(Dynamic Neural Network) <br>
 
 # References
 
