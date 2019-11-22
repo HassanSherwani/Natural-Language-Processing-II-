@@ -1,4 +1,6 @@
-Using Spacy for NER problem
+# Example 1 : 
+
+Using Spacy for NER problem for detecting Programming language
 
 # Data
 
