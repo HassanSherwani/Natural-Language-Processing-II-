@@ -29,6 +29,11 @@ For deep learning : pytorch, tensorflow, keras, fastai, Dynet(Dynamic Neural Net
 # References
 
 - For PyTorch: https://pytorch.org/tutorials/
+- Gensim: https://pypi.org/project/gensim/
+- Text BLob: https://textblob.readthedocs.io/en/dev/
+- NLTK : https://www.nltk.org/
+- Spacy: https://nlpforhackers.io/complete-guide-to-spacy/
+- Keras: https://keras.io/
 - Attention Model: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112).
 - Attention Model: Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). Learning phrase representations using RNN encoder-decoder for statistical machine translation. arXiv preprint arXiv:1406.1078.
 - Carnegie Mellon University NLP : http://www.cs.cmu.edu/~nasmith/nlp-cl.html
