@@ -1,7 +1,4 @@
 # Example 1 : 
 
-Using Spacy for NER problem for detecting Programming language
+Using Spacy for NER problem in a recent cricket new.
 
-# Data
-
-https://www.kaggle.com/stackoverflow/stacksample
