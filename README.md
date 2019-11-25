@@ -44,6 +44,7 @@ For deep learning : pytorch, tensorflow, keras, fastai, Dynet(Dynamic Neural Net
 - Silicon Valley Python Workshops: https://github.com/PythonWorkshop/intro-to-nlp-with-pytorch
 - Elvis Saravia Talk:https://github.com/omarsar/nlp_pycon
 - For DyNet: https://github.com/clab/dynet
+- Named Entity Recognition (NER) : https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
 
 # Credit:
 
