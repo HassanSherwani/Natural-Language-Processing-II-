@@ -3,3 +3,7 @@ To solve named entitiy recognition problem, Applying Machine learning models lik
 # Data
 
 https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
+
+# Credit:
+
+http://www.depends-on-the-definition.com/introduction-named-entity-recognition-python/
