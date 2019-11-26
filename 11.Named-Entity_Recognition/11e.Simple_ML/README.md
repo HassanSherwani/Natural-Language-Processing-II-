@@ -1,0 +1,1 @@
+To solve named entitiy recognition problem, Applying Machine learning models like Naive Bayes and Random Forest with different evaluation processes and pipelines
