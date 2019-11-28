@@ -13,3 +13,7 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 - d)-NER using Pytorch module 2
 
 - e)-NER using Keras 
+
+# Credit
+
+- https://www.kdnuggets.com/2018/10/named-entity-recognition-classification-scikit-learn.html
