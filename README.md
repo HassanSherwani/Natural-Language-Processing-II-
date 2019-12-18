@@ -17,7 +17,8 @@ Various concepts and coding excercise related to NLP.
 - 10)- Part of Speech(POS) Tagging.
 - 11)- Named Entity Recognition (NER).
 - 12)- CMU(Carnegie Mellon University) NLP lectures.
-- 13)- NLP application for Legal contract documents
+- 13)- NLP application for Legal contract documents.
+- 14)- Information extraction from large documents such as NIPS dataset
 
 
 # Modules
