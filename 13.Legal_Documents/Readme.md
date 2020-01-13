@@ -1,10 +1,14 @@
+# Problem Statement
+
 A Project where key information is extracted from legal documents such as contracts.
 
 # Data
 
-A standard contract file with no names or real clauses for NDA reason
+A standard contract file: It contains no real names or real clauses for NDA reason. Main point is to learn NLP.
 
 # Modules
+
+pandas, numpy, gensim , spacy, nltk , PyPDF2, re , string, matplotlib
 
 # References
 
