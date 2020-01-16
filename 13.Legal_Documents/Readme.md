@@ -19,3 +19,5 @@ pandas, numpy, gensim , spacy, nltk , PyPDF2, re , string, matplotlib
 - https://medium.com/@s.witkowski/nlp-topic-modeling-legislative-and-legal-documents-in-python-91231aa438be
 
 - https://medium.com/swishlabs/machine-learning-for-contracts-analysis-put-your-human-mind-where-it-really-matters-7cb5395c65c7
+
+- For Contract analysis: https://medium.com/swishlabs/machine-learning-for-contracts-analysis-put-your-human-mind-where-it-really-matters-7cb5395c65c7
