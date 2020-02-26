@@ -4,7 +4,7 @@ A Project where key information is extracted from legal documents such as contra
 
 # Data
 
-A standard contract file: It contains no real names or real clauses for NDA reason. Main point is to learn NLP.
+A standard contract file: It contains no real names or real clauses for NDA reason. Main point is to learn information extraction process.
 
 # Modules
 
