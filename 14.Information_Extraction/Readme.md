@@ -11,6 +11,10 @@ It is tough to read and retrieve informarion manually from documents. So, this p
 
 # Dataset
 
+ https://www.kaggle.com/benhamner/nips-papers/data
+
 # Modules
+
+pandas, numpy, re, nltk, spacy, keras, pytorch, sklearn , tensorflow.
 
 # References
