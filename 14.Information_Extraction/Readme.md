@@ -19,3 +19,12 @@ It is tough to read and retrieve informarion manually from documents. So, this p
 pandas, numpy, re, nltk, spacy, keras, pytorch, sklearn , tensorflow.
 
 # References
+
+- TF-IDF: https://medium.com/analytics-vidhya/tf-idf-term-frequency-technique-easiest-explanation-for-text-classification-in-nlp-with-code-8ca3912e58c3
+
+- Gensim: https://radimrehurek.com/gensim/summarization/keywords.html
+
+- TextRank summarization: https://rare-technologies.com/text-summarization-with-gensim/
+
+- YAKE: https://github.com/LIAAD/yake
+
