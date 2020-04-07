@@ -54,4 +54,4 @@ For deep learning : pytorch, tensorflow, keras, fastai, Dynet(Dynamic Neural Net
 
 # Credit:
 
-Special Thanks to PyTorch Tutorials, fastai lectures, scoutbee lectures,PyCon NLP 2019, Silicon Valley Python Workshops Microsoft Reactor event,CMU Neural Nets for NLP 2019, which helped me immensely for learning key concepts of NLP & coding in general
+Special Thanks to PyTorch Tutorials, fastai lectures, scoutbee lectures,PyCon NLP 2019, Silicon Valley Python Workshops Microsoft Reactor event,CMU Neural Nets for NLP 2019, which helped me immensely for learning key concepts of NLP & coding in general, Spacy documentation
