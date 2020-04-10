@@ -26,5 +26,5 @@ pandas, numpy, re, nltk, spacy, keras, pytorch, sklearn , tensorflow.
 
 - TextRank summarization: https://rare-technologies.com/text-summarization-with-gensim/
 
-- YAKE: https://github.com/LIAAD/yake
+- YAKE: https://github.com/LIAAD/yakehttps://medium.com/@shubhamagarwal328/information-retrieval-in-natural-language-processing-part-1-96c9a62fdb5f
 
