@@ -19,7 +19,8 @@ Various concepts and coding excercise related to NLP.
 - 12)- CMU(Carnegie Mellon University) NLP lectures.
 - 13)- NLP application for Legal contract documents.
 - 14)- Information extraction from large documents such as NIPS dataset.
-- 15)- Text Extraction from unstructured data using regular expression.
+- 15)- Sentiment Analyses implementing rule based vs machine learning approaches.
+- 16)- Sentiment Analyses with advanced deep learning approach using keras.
 
 
 # Modules
