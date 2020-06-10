@@ -1,1 +1,1 @@
-Creating simple chatbot for rendering coffee house Q/As
+Creating simple chatbot for rendering student meeting Office hours Q/As
