@@ -21,7 +21,7 @@ Various concepts and coding excercise related to NLP.
 - 14)- Information extraction from large documents such as NIPS dataset.
 - 15)- Sentiment Analyses implementing rule based vs machine learning approaches.
 - 16)- Sentiment Analyses with advanced deep learning approach using keras.
-- 17)- Text Analysis using Machine Learning- An online course from Data School
+- 20)- Text Analysis using Machine Learning- An online course from Data School
 
 
 # Modules
