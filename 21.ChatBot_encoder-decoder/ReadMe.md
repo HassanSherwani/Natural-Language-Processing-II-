@@ -1,5 +1,6 @@
 # Creating a conversation AI chatbot
-- using encoder-decoder framework
+
+Using encoder-decoder framework.
 
 # Data Source 
 
