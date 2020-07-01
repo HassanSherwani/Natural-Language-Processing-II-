@@ -17,3 +17,4 @@ pandas, numpy, tensorflow, keras
 - https://www.kaggle.com/mushaya/chatbot-1
 - https://github.com/shubham0204/Dataset_Archives/blob/master/chatbot_nlp_processed.zip
 - https://www.youtube.com/watch?v=Xg2wOBU9v90&list=PLTuKYqpidPXbulRHl8HL7JLRQXwDlqpLO
+- attention: https://www.kaggle.com/programminghut/seq2seq-chatbot-keras-with-attention
