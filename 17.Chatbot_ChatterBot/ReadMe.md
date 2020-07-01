@@ -10,3 +10,8 @@ Modules
 chatterbot , chatterbot-corpus
 
 run : pip install -r requirements.txt
+
+
+# References
+
+- https://pypi.org/project/ChatterBot/
