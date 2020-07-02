@@ -10,6 +10,8 @@ Using encoder-decoder framework.
 
 pandas, numpy, tensorflow, keras
 
+- Run pip install -r requirements.txt
+
 ### References
 
 - https://medium.com/predict/creating-a-chatbot-from-scratch-using-keras-and-tensorflow-59e8fc76be79
