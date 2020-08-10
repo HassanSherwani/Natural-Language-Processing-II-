@@ -1,4 +1,4 @@
-A step by step NLP project with the arxiv data
+An NLP project for creating recommendation system from title and summary of text using arxiv data.
 
 # Data
 
