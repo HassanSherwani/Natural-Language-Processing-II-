@@ -57,6 +57,8 @@ For deep learning : pytorch, tensorflow, keras, fastai, Dynet(Dynamic Neural Net
 - Elvis Saravia Talk:https://github.com/omarsar/nlp_pycon
 - For DyNet: https://github.com/clab/dynet
 - Named Entity Recognition (NER) : https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+- For Recommendation system: https://towardsdatascience.com/nlp-classification-recommendation-project-cae5623ccaae
+- For Recommendation system(2): https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26
 
 # Credit:
 
