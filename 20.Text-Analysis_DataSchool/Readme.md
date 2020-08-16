@@ -16,6 +16,8 @@ https://www.dataschool.io/learn/
 
 - Notebook3.a: Yelp reviews corpus and Sentiment Analysis using TextBlob
 
+- Notebook3.b:Intermediate-NLP_TextSummarization
+
 - Notebook4.a: Applying Regular expression using IMDb top 100 movies case
 
 - Notebook 5: Chaining ML steps into a Pipeline using Kaggle challenge case.
