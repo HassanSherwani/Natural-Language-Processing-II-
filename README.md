@@ -26,6 +26,7 @@ Various concepts and coding excercise related to NLP.
 - 19)- AI chatbot using Tensorflow.
 - 20)- Text Analysis using Machine Learning- An online course from Data School.
 - 21)- AI Chatbot using encoder-decoder framework.
+- 22)- Recommendation system
 
 
 # Modules
