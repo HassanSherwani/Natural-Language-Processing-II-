@@ -10,10 +10,22 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 
 - c)- NER using nltk
 
-- d)-NER using Pytorch module 2
+- d)-NER using Conditional random field mode
 
-- e)-NER using Keras 
+- e)-NER using ML model
+
+- f)-NER using BERT
+
+- g)-NER using RNN+CRF
+
+- h)-NER using Naive Bayes 
+
+- i)- NER with RNN
 
 # Credit
 
 - https://www.kdnuggets.com/2018/10/named-entity-recognition-classification-scikit-learn.html
+
+- https://github.com/abhishekkrthakur/bert-entity-extraction
+
+- https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
