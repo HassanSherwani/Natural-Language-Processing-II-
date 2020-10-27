@@ -29,7 +29,7 @@ colorclass==2.2.0
 coloredlogs==10.0
 colorhash==1.0.2
 colorlover==0.3.0
-cryptography==2.9.2
+cryptography==3.2
 cufflinks==0.17.3
 cycler==0.10.0
 cymem==2.0.3
