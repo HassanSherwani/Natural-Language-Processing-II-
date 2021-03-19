@@ -128,7 +128,7 @@ parso==0.7.0
 patsy==0.5.1
 pickleshare==0.7.5
 pika==1.1.0
-Pillow==7.1.2
+Pillow==8.1.1
 Pint==0.13
 plac==0.9.6
 plotly==4.8.1
