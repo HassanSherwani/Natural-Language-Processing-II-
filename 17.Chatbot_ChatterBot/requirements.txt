@@ -25,7 +25,7 @@ pymongo==3.10.1
 pyparsing==2.4.7
 python-dateutil==2.7.5
 pytz==2020.1
-PyYAML==5.1
+PyYAML==5.4
 rasa-core==0.14.5
 rasa-nlu==0.15.1
 regex==2018.1.10
