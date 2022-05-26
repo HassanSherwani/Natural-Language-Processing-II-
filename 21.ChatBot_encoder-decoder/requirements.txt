@@ -224,7 +224,7 @@ tqdm==4.45.0
 traitlets==4.3.3
 twilio==6.26.3
 tzlocal==2.1
-ujson==2.0.3
+ujson==5.2.0
 urllib3==1.25.9
 version-information==1.0.3
 wasabi==0.6.0
